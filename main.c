@@ -102,7 +102,7 @@ void transferToSavings() {
     system("cls");
 }
 
-void transferToChecking() {
+void checking() {
     float amount;
     printf("Enter the amount to transfer from savings to checking: ");
     scanf("%f", &amount);
