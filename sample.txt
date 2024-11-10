@@ -1,0 +1,3 @@
+Hello, World! This is a sample text file.
+It contains vowels, consonants, and punctuation marks.
+Let's see how well the program calculates the percentages.
